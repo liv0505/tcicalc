@@ -17,7 +17,6 @@ Calculate useful indexes for tropical cyclones:
 **3. get_figure.py** is the python script that plot the results and save the figures to **TC_example** folder.
 
 ## Quick Start:
-Before start, you should modify the `datadir` and `outdir` (directories where you store input data and output results.) in **calculator.py**
 
 **Step 1. Compile FORTRAN 90 file:**<br>
 Enter the following code into your terminal:<br>
